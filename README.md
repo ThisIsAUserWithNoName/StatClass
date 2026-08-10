@@ -1,3 +1,5 @@
+## License
+StatClass is open-source software released under the MIT License. See the [LICENSE](LICENSE) file for details.
 # StatClass
 Python CLI alternative to Stata, R, SAS.
 # StatClass 3.17.0
